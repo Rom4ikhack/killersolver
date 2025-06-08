@@ -1,0 +1,15 @@
+row 0, col 0 => cagesum 23 
+row 0, col 4 => cagesum 9 
+row 1, col 1 => cagesum 6 
+row 1, col 3 => cagesum 4 
+row 2, col 2 => cagesum 13 
+row 3, col 4 => cagesum 38 
+row 4, col 0 => cagesum 4 
+row 4, col 1 => cagesum 8 
+row 5, col 1 => cagesum 32 
+row 5, col 2 => cagesum 21 
+row 5, col 8 => cagesum 13 
+row 6, col 0 => cagesum 26 
+row 6, col 4 => cagesum 8 
+row 7, col 5 => cagesum 4 
+row 7, col 6 => cagesum 22 
