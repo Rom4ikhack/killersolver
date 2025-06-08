@@ -1,0 +1,8 @@
+pytesseract
+matplotlib
+numpy
+tqdm
+pdf2image==1.17.0
+requests
+pyautogui
+cv2
