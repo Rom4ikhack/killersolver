@@ -141,7 +141,7 @@ def procede_with_autocompletion(id: int):
 with open("solved_on_site.txt", 'r') as res_storage:
     data = json.load(res_storage)
 
-for i in range(26566, 26568):
+for i in range(26569, 26570):
     strkey = str(i)
     if strkey in data:
         is_solved = data[strkey] == 'True'
